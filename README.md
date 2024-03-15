@@ -7,6 +7,3 @@ You also need to make each pacman bounce off any wall it hits.
 Start by getting at least one pacman positioned and viewable. 
 
 <img src="PacMan1.png">
-
-Load the following URL in the browser:
-https://justinfilip.github.io/pages/pacmen/PacMen.html
