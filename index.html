@@ -37,7 +37,7 @@
         let newimg = document.createElement('img');
         newimg.id = imgId;
         newimg.style.position = 'absolute';
-        newimg.src = 'PacMan1.png';
+        newimg.src = 'images/PacMan1.png';
         newimg.width = 100;
         //
         // set position here 
@@ -71,7 +71,7 @@
         pacMen.forEach((item) => {
             checkCollisions(item)
 
-            document.getElementById(item.imgId).src = 'PacMan' + item.imgNum + '.png';
+            document.getElementById(item.imgId).src = 'images/PacMan' + item.imgNum + '.png';
 
             item.position.x += item.velocity.x;
             item.position.y += item.velocity.y;
