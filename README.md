@@ -1,4 +1,5 @@
-# pacmen
+# PacMen Exercise
+
 Factory for making pacmen
 You are given a starter.html code.
 When button "make one" is pressed you need to complete the code 
@@ -7,3 +8,5 @@ You also need to make each pacman bounce off any wall it hits.
 Start by getting at least one pacman positioned and viewable. 
 
 <img src="PacMan1.png">
+
+Load https://justinfilip.github.io/PacMen-Exercise/ in a browser
