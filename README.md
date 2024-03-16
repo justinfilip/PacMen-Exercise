@@ -2,28 +2,28 @@
 
 <img style="width: 50px;" src="images/PacMan1.png">
 
-## Generate animated PacMen and watch them move around the page.
+### Generate animated PacMen and watch them move around the page.
 
 https://www.youtube.com/watch?v=16GIgTOt1n8
 
-### How to Run
+## How to Run
 - Load https://justinfilip.github.io/PacMen-Exercise/ in a browser
 - Click "Add PacMan"
 - Click "Start Game"
 - Add more PacMen
 - Click "Faster" to make the PacMen travel faster
 
-### Improvements made so far
+## Improvements made so far
 
 - Added edge detection and direction changing on collision
 - Added mouth animations
 - Indicated a behavior change on the "Start Game" button after the game is started
 
-### Roadmap of future improvements
+## Roadmap of future improvements
 - Add dots for the PacMen to eat
 - Add ghosts for the PacMen to fight
 
-### License
+## License
 MIT License
 
 Copyright (c) 2024 Justin Filip
