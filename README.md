@@ -4,8 +4,6 @@
 
 ### Generate animated PacMen and watch them move around the page.
 
-https://www.youtube.com/watch?v=16GIgTOt1n8
-
 ## How to Run
 - Load https://justinfilip.github.io/PacMen-Exercise/ in a browser
 - Click "Add PacMan"
