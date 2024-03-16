@@ -1,6 +1,6 @@
 # PacMen Exercise
 
-<img style="width: 50px;" src="PacMan1.png">
+<img style="width: 50px;" src="images/PacMan1.png">
 
 ## Generate animated PacMen and watch them move around the page.
 
